@@ -15,10 +15,10 @@ function test() {
     var a = "3";
     var b = "8";
 /***********Do not change the code above 👆*******/
-//Write your code on lines 7 - 9:
+//Write your code here:
     // First, we need to create a new container which can contain value from existing container, namely c.
     var c = a;
-    // Since the value of container a is transmitted to container c, then it is now empty and we can transmit b value to a
+    // Since the value of container a is transmitted to container c, then it is now empty and we can transmit b's value to a
     a = b;
     // and so on.
     b = c;
