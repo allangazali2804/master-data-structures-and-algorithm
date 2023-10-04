@@ -16,4 +16,4 @@ if(angka1 > angka2){
     angkaMaks += angka3;
 }
 
-alert(angkaMaks);
+console.log(angkaMaks);
