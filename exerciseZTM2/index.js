@@ -14,3 +14,5 @@ function inCommon(arr1, arr2){
 }
 
 inCommon(array1, array2)
+
+//O(a*b)
